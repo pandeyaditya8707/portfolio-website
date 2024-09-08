@@ -1,7 +1,7 @@
 import React from "react";
-import Ecommerce from "/Users/adityapandey/Desktop/react1/portfolio/src/assets/e commerce.png";
-import paytmclone from "/Users/adityapandey/Desktop/react1/portfolio/src/assets/paytmclone.png";
-import DivvyUP from "/Users/adityapandey/Desktop/react1/portfolio/src/assets/Divvy-UP.png"
+import Ecommerce from "../../assets/e commerce.png";
+import paytmclone from "../../assets/paytmclone.png";
+import DivvyUP from "../../assets/Divvy-UP.png"
 const projects = [
   {
     id: 1,

@@ -1,5 +1,5 @@
 import React from 'react'
-import HeroImage from '/Users/adityapandey/Desktop/react1/portfolio/src/assets/HeroImage.png';
+import HeroImage from '../../assets/HeroImage.png';
 const Hero = () => {
   return (
     <div className='bg-black text-white text-center py-16'>

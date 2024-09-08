@@ -1,6 +1,5 @@
 import React from "react";
-import HeroImage from"/Users/adityapandey/Desktop/react1/portfolio/src/assets/HeroImage.png";
-
+import HeroImage from "../../assets/HeroImage.png";
 
 const About = () => {
   return (
